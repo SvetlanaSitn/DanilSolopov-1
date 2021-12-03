@@ -1,0 +1,21 @@
+body{
+    
+}
+a:hover{
+    color: goldenrod;
+}
+a{
+    text-decoration: none;
+    color: wheat;
+}
+.font{
+    font-size: 35px;
+padding: 15px;
+color: whitesmoke;
+}
+.header{
+    font-size: 30px;
+}
+body{
+    background-color: #403B4A;
+}

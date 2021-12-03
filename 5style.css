@@ -1,0 +1,26 @@
+header{
+    background: linear-gradient(#0F2027, #203A43, #2C5364);
+}
+ul{
+    list-style: none;
+    margin: 0;
+    padding: 20px;
+
+}
+a{
+    font-size: 20px;
+    padding: 20px;
+    color: wheat;
+    text-decoration: none;
+
+}
+a:hover{
+    color: goldenrod;
+
+}
+li{
+    display: inline;
+}
+body{
+    background-color: black;
+}
